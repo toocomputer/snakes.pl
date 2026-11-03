@@ -43,7 +43,3 @@ Arguments:
     -h, --help
         Display this help message.
 ```
-
-## Bugs
-
-Please report any bugs using the Github issue tracker.
